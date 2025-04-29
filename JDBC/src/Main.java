@@ -11,8 +11,6 @@ public class Main {
     public static void main(String[] args) {
 
         // Modern way of JDBC
-
-
         String url = "jdbc:mysql://localhost:3306/school";
         String username = "root";
         String password = "MySQL";
